@@ -1,0 +1,10 @@
+total 92
+-rw-r--r--   1 julio julio     0 Oct 30 15:08 alt.txt
+drwxr-xr-x   2 julio julio  4096 Oct 30 02:32 build
+drwxr-xr-x   2 julio julio  4096 Oct 30 03:01 data
+-rw-r--r--   1 julio julio    77 Oct 30 02:42 data.csv
+drwxr-xr-x 108 julio julio  4096 Oct 30 02:33 node_modules
+-rw-r--r--   1 julio julio 57189 Oct 30 02:33 package-lock.json
+-rw-r--r--   1 julio julio   458 Oct 30 02:32 package.json
+drwxr-xr-x   2 julio julio  4096 Oct 30 02:27 src
+-rw-r--r--   1 julio julio 12288 Oct 30 02:29 tsconfig.json
